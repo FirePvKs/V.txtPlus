@@ -24,6 +24,7 @@ class TextEditor:
             font=self._font,
             undo=True,
             maxundo=-1,
+            bg="#154E61",
         )
         self._scrollbar_y = tk.Scrollbar(
             self._frame,
