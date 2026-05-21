@@ -40,7 +40,7 @@ python main.py
 ## Estructura del proyecto
 
 ```
-notepad/
+V.TXTPLUS/
     main.py                 Punto de entrada
     editor/
         __init__.py
